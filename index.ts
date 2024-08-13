@@ -1,6 +1,5 @@
 let Greet = 'Hello';
 
-let username = 'Talha Malik';
-
+let username = 'Muhammad Khurram Malik';
 
 console.log(Greet + ' ' + username);
